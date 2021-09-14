@@ -1,2 +1,2 @@
 # RegressionAlgorithm
-I will update some algorithm about regression 
+I will update some algorithm about regressions
